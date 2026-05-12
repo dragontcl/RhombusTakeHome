@@ -340,3 +340,8 @@ through as strings.
 5. **Object storage for `uploads/`.** Required for production durability.
 6. **Auth + per-user file isolation.**
 
+## Demo Video
+
+https://github.com/user-attachments/assets/3e71a544-7bfd-4c6b-8d1d-d69a66e23df8
+
+
